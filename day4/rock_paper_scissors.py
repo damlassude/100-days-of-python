@@ -99,6 +99,7 @@ elif user_choice=="2":
       (____)
 ---.__(___)
 """)
+    print("Computer chose: ")
     if computer_choice==0:
         print("""
     _______
