@@ -7,7 +7,7 @@ def is_leap_year(year):
             else:
                 return False
         else:
-            return False
+            return True
     return False
     
 x=int(input("Year: "))
